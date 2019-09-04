@@ -23,6 +23,7 @@
     <slot></slot>
   </div>
 </template>
+
 <script>const DEFUALT_TITLE_WIDTH = '40%'
 const DEFUALT_WIDTH = '100%'
 
